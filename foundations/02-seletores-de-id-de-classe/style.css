@@ -1,0 +1,19 @@
+.fundo-vermelho, tamanho {
+    background-color: tomato;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+.tamanho {
+    font-size: 24px;
+}
+
+#texto-azul {
+    color: blue;
+    font-size: 36px;
+}
+
+#verde {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
